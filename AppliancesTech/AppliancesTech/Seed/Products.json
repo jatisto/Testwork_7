@@ -1,0 +1,19 @@
+[
+  {
+    "Id": 1,
+    "Name": "Vitek",
+    "CategoryViewModel": 3,
+    "Description": "Чайник",
+    "Price": "1500.0",
+    "ImageUrl": "",
+    "IsInStock": true
+  }, {
+    "Id": 1,
+    "Name": "Veko",
+    "CategoryViewModel": 2,
+    "Description": "холодильник",
+    "Price": "15.000",
+    "ImageUrl": "",
+    "IsInStock": false
+  }
+]

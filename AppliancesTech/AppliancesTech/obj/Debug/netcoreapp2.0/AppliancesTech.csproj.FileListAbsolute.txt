@@ -1,0 +1,12 @@
+C:\Users\evgen\GitFolderHome\AppliancesTech\AppliancesTech\bin\Debug\netcoreapp2.0\AppliancesTech.deps.json
+C:\Users\evgen\GitFolderHome\AppliancesTech\AppliancesTech\bin\Debug\netcoreapp2.0\AppliancesTech.runtimeconfig.json
+C:\Users\evgen\GitFolderHome\AppliancesTech\AppliancesTech\bin\Debug\netcoreapp2.0\AppliancesTech.runtimeconfig.dev.json
+C:\Users\evgen\GitFolderHome\AppliancesTech\AppliancesTech\bin\Debug\netcoreapp2.0\AppliancesTech.dll
+C:\Users\evgen\GitFolderHome\AppliancesTech\AppliancesTech\bin\Debug\netcoreapp2.0\AppliancesTech.pdb
+C:\Users\evgen\GitFolderHome\AppliancesTech\AppliancesTech\obj\Debug\netcoreapp2.0\AppliancesTech.csprojAssemblyReference.cache
+C:\Users\evgen\GitFolderHome\AppliancesTech\AppliancesTech\obj\Debug\netcoreapp2.0\AppliancesTech.csproj.CoreCompileInputs.cache
+C:\Users\evgen\GitFolderHome\AppliancesTech\AppliancesTech\obj\Debug\netcoreapp2.0\AppliancesTech.AssemblyInfoInputs.cache
+C:\Users\evgen\GitFolderHome\AppliancesTech\AppliancesTech\obj\Debug\netcoreapp2.0\AppliancesTech.AssemblyInfo.cs
+C:\Users\evgen\GitFolderHome\AppliancesTech\AppliancesTech\obj\Debug\netcoreapp2.0\AppliancesTech.dll
+C:\Users\evgen\GitFolderHome\AppliancesTech\AppliancesTech\obj\Debug\netcoreapp2.0\AppliancesTech.pdb
+C:\Users\evgen\GitFolderHome\AppliancesTech\AppliancesTech\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
